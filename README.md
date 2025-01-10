@@ -1,3 +1,4 @@
+Link - https://garuinja.github.io/workshop-task-2/
 Since the task involves using a timer for the most part, my plan for this is to make some shapes move at for an interval and when the interval is over, a different shape will pop up. Like a jumpscare of sort.
 
 Update nevermind, I decided to go with something simple. I used quad which I didn't know much about so I just skimmed the reference page (https://p5js.org/reference/p5/quad/). With quad I made some sort of shape that was similar to a butterfly. I then used setTimeout for the butterfly and put it on a timer of 2 seconds, I also used the mousePressed function to allow the user to create butterflies.
